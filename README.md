@@ -1,3 +1,11 @@
+stripped branch
+
+removed files which i don't use
+
+run `git diff --name-only --diff-filter=D master .` to see which files were removed
+
+---
+
 <img align="left" style="width:260px" src="https://github.com/raysan5/raylib/blob/master/logo/raylib_logo_animation.gif" width="288px">
 
 **raylib is a simple and easy-to-use library to enjoy videogames programming.**
